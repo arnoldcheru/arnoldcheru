@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arnoldkc
+- 👋 Hi, I’m @arnold cheruiyot
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on software dev projects
